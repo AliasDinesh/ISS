@@ -1,0 +1,27 @@
+.title {
+    text-align: center;
+    color: black;
+    font-size: 60px;
+	text-align: center;
+	font-style: italic;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: underline;
+}
+
+.info  {
+    color: black;
+    text-align: center;
+    position: relative;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 20px;
+}
+
+.box {
+    justify-content: center;
+}
+
+#map {
+    height: 600px;
+    width: auto;
+}
